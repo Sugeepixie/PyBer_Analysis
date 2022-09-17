@@ -24,7 +24,7 @@
 
  ## PyBer_Analysis Summary
     
-  * Recommendations :
+ ### Recommendations :
    *  Pyber needs to investigate the reason for low driver count /lower number of rides in the rural cities and draft a plan to make ride sharing afforadable and accessible in all cities
    * Encouraging more drivers to drive in the rural citites
    * Investing more in urban cities to yield more profit 
