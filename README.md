@@ -5,14 +5,15 @@
 
  ## PyBer_Analysis Results
  
-   ![PyBer_Challenge_Summary_DF](https://user-images.githubusercontent.com/76926148/190873011-e3d096b0-47c7-4e68-9983-29fb2e5cab58.PNG)
+  1. ![PyBer_Challenge_Summary_DF](https://user-images.githubusercontent.com/76926148/190873011-e3d096b0-47c7-4e68-9983-29fb2e5cab58.PNG)
 
  * The ride sharing metrics shows that 
     * The Urban cities shows high number of drivers yileding highest total fare bringing the avarage fare per driver and per ride low compared to other cities
     * The rural cities shows shortage in drivers which brought down the number of rides hiking the avarage fare
   
  
-  ![PyBer_fare_summary](https://user-images.githubusercontent.com/76926148/190873035-0d1e89d5-16f4-419f-bee4-6117cd9b9749.png)
+ 
+  2. ![PyBer_fare_summary](https://user-images.githubusercontent.com/76926148/190873035-0d1e89d5-16f4-419f-bee4-6117cd9b9749.png)
 
 * The line graph shows that 
    * The urban citties got highest total fare 
